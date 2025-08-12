@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuración del bot
-BOT_TOKEN = "8091899217:AAHren-9-os3kC_Zh80no7VBW7XGBTQ6ntM"
+BOT_TOKEN = "8063509725:AAHsa32julaJ4fst2OWhgj7lkL_HdA5ALN4"
 ADMIN_ID = 1742433244
 
 # MongoDB
