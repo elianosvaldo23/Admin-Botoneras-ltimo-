@@ -1,1 +1,1 @@
-web: python tu_archivo.py
+web: python main.py
